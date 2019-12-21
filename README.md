@@ -11,6 +11,7 @@ I have an extreme interest in Deep Neural Networks and Data Science. The framewo
 
 # Character Recognition
 This repository contains a simple convolutional neural network for recognition of handwritten digits. Trained and tested using Kaggle distributions of the MNIST dataset and the Kannada MNIST dataset. Accuracy results can be found in the repositroy.
+
 [CharacterRecognition](https://github.com/cnalty/CharacterRecognition)
 
 # Genetic Algorithms for Training Neural Nets
