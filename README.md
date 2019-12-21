@@ -6,7 +6,6 @@ I have an extreme interest in Deep Neural Networks and Data Science. The framewo
 
 # Table of Projects
 * [Character Recognition](#character-recognition)
-
 * [Genetic Algorithms for Training Neural Nets](#genetic-algorithms-for-training-neural-nets)
 
 # Character Recognition
