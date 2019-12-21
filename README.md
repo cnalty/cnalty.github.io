@@ -4,6 +4,19 @@ I am an undergraduate student at the University of Maryland. I am expecting to g
 
 I have an extreme interest in Deep Neural Networks and Data Science. The framework I am most familiar with is PyTorch, but have also done basic work with OpenVINO. Below are repositories using fully connected and convolutional neural networks.
 
+# Work History
+## [Mukh Technologies](https://www.mukh.com/) - Software Engineering Intern
+May 2019 - Present
+  * Data and algorithm visualization for facial recognition software
+  * Containerization of neural network pipeline in Docker
+  * Deployment of networks on the edge, including Jetson TX2 and Nano
+
+
+## [Orbit Logic](https://www.orbitlogic.com/) - Systems Engineering Intern
+November 2018 - May 2019
+  * Regression Testing
+  * Automation of Test setup and database restoration
+
 # Table of Projects
 * [Character Recognition](#character-recognition)
 * [Genetic Algorithms for Training Neural Nets](#genetic-algorithms-for-training-neural-nets)
