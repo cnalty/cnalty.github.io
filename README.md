@@ -4,6 +4,8 @@ I am an undergraduate student at the University of Maryland. I am expecting to g
 
 I have an extreme interest in Deep Neural Networks and Data Science. The framework I am most familiar with is PyTorch, but have also done basic work with OpenVINO. Below are repositories using fully connected and convolutional neural networks.
 
+My resume can be found [here](cnalty.github.io/resume.pdf)
+
 # Work History
 ## [Mukh Technologies](https://www.mukh.com/) - Software Engineering Intern
 May 2019 - Present
