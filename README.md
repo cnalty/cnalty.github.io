@@ -11,7 +11,9 @@ My resume can be found [here](cnalty.github.io/resume.pdf)
 May 2019 - Present
   * Data and algorithm visualization for facial recognition software
   * Containerization of neural network pipeline in Docker
-  * Deployment of networks on the edge, including Jetson TX2 and Nano
+  * PyTorch training and dataset scripts
+  * Updated front end API and reworked backend while maintaining expected functionality
+
 
 
 ## [Orbit Logic](https://www.orbitlogic.com/) - Systems Engineering Intern
@@ -19,9 +21,17 @@ November 2018 - May 2019
   * Regression Testing
   * Automation of Test setup and database restoration
 
+## Honors Thesis - Multi-Task RL Algorithm Comparison on Atari
+
+
 # Table of Projects
+* [Gait Estimation](#gait-estimation)
 * [Character Recognition](#character-recognition)
 * [Genetic Algorithms for Training Neural Nets](#genetic-algorithms-for-training-neural-nets)
+* [Multi-Task DDQN on Atari](#multi-task-ddqn-on-atari)
+
+# Gait Estimation
+
 
 # Character Recognition
 This repository contains a simple convolutional neural network for recognition of handwritten digits. Trained and tested using Kaggle distributions of the MNIST dataset and the Kannada MNIST dataset. Accuracy results can be found in the repositroy.
@@ -32,3 +42,7 @@ This repository contains a simple convolutional neural network for recognition o
 This repository has methods for for using genetic algorithms to train neural networks. There are a few basic mobile and arcade style games used to showcase and test. The methods have only been tested for training on fully connected layers, but have been run on convolutional layers. May work with other layers as well.
 
 [RTGameAI](https://github.com/cnalty/RTGameAI)
+
+# Multi-Task DDQN on Atari
+
+
