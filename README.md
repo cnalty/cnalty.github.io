@@ -31,7 +31,7 @@ November 2018 - May 2019
 * [Multi-Task DDQN on Atari](#multi-task-ddqn-on-atari)
 
 # Gait Estimation
-
+This project involved estimating how people walk, known as gait. A pose estimation network was used to extract keypoints on peoples bodies. Using these each persons arm and leg movements were stabalized based on their torso position. The stabalized arm and leg movements were then fitted to a sin wave using Basin-hopping. This method also produces a torso stabilized video of each person walking.
 
 # Character Recognition
 This repository contains a simple convolutional neural network for recognition of handwritten digits. Trained and tested using Kaggle distributions of the MNIST dataset and the Kannada MNIST dataset. Accuracy results can be found in the repositroy.
@@ -44,5 +44,6 @@ This repository has methods for for using genetic algorithms to train neural net
 [RTGameAI](https://github.com/cnalty/RTGameAI)
 
 # Multi-Task DDQN on Atari
+
 
 
