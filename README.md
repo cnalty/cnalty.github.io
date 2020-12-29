@@ -1,8 +1,6 @@
 # About Me
 
-I am an undergraduate student at the University of Maryland. I am expecting to graduate in May of 2021 with two degrees, Bachelor's in Computer Science and Bachelor's in Mathematics. Following this I hope to continue my education by pursing a Ph.D. in Machine Learning or Natural Language Processing.
-
-I have an extreme interest in Deep Neural Networks and Data Science. The framework I am most familiar with is PyTorch, but have also done basic work with OpenVINO. Below are repositories using fully connected and convolutional neural networks.
+I am an undergraduate student at the University of Maryland. I am expecting to graduate in May of 2021 with two degrees, Bachelor's in Computer Science with a minor Mathematics. Following this I hope to continue my education by pursing a Ph.D. in Reinforcement Learning.
 
 My resume can be found [here](cnalty.github.io/resume.pdf)
 
