@@ -46,5 +46,5 @@ This repository has methods for for using genetic algorithms to train neural net
 # Multi-Task DDQN on Atari - with Jill Granados, Michael Stephanus, Makai Freeman
 This work explred the effect of multi-task in Reinforcement Learning using the Double Deep Q-Network (DDQN) Hasselt et al developed a DDQN based on the Deep Q-Learning Network by Mnih et al. to mitigate the overestimation of values of actions in an attempt to have the network find a more general solution. We used DDQN to train a model to play Atari 2600 games either as a single task or part of a multi task process to determine how much the multi-task model will outperform the single-task and when the performance then decreases. Our findings suggest that there is little to no performance increase when training multiple tasks versus a single task with the difference becoming greater as more tasks are added.
 
-[Analysis of Multi-Tasking Reinforcement Learning](cnalty.github.io/MTLDDQN.pdf)
+[Analysis of Multi-Tasking Reinforcement Learning](MTLDDQN.pdf)
 
