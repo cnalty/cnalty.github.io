@@ -19,10 +19,10 @@ November 2018 - May 2019
   * Regression Testing
   * Automation of Test setup and database restoration
 
-## Honors Thesis - Multi-Task RL Algorithm Comparison on Atari
+## Honors Thesis - Multi-Task RL Algorithm Comparison on Atari using Policy Gradients
 This paper compares two policy gradient methods for multitask learning (MTL) on the Atari visual environments. These environments are complex and take millions of time steps to learn. This paper investigates Advantage Actor-Critic (A2C) and Proximal Policy Optimization’s (PPO) performance on one, two and four environments from the Arcade Learning Environment. The results show that agents trained with both PPO and A2C have improved performance when trained on multiple tasks when compared to a single task. PPO showed the most consistent improvement and scored the best overall. However, A2C’s improves the most on average compared to its baseline. This shows that the trust-region approximation of PPO may not be as beneficial in MTL as in a single task.
 
-<a href="cnalty.github.io/HonorsThesis.pdf"</a>
+[Multi-Task RL with Policy Gradients](HonorsThesis.pdf)
 
 # Table of Projects
 * [Gait Estimation](#gait-estimation)
