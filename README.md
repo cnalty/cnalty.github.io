@@ -1,6 +1,6 @@
 # About Me
 
-I am an undergraduate student at the University of Maryland. I am expecting to graduate in May of 2021 with two degrees, Bachelor's in Computer Science with a minor Mathematics. Following this I hope to continue my education by pursing a Ph.D. in Reinforcement Learning.
+I am an undergraduate student at the University of Maryland. I am expecting to graduate in August of 2021 with a Bachelor's in Computer Science and a minor Mathematics. 
 
 My resume can be found [here](cnalty.github.io/resume.pdf)
 
