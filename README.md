@@ -37,6 +37,7 @@ This work explred the effect of multi-task in Reinforcement Learning using the D
 [Analysis of Multi-Tasking Reinforcement Learning](MTLDDQN.pdf)
 
 # NCAA Basketball Analysis
+A Data Science project analysis NCAA basketball teams and predicting game results.
 
 [NCAA Basketball Anaylsis](basketball.html)
 
