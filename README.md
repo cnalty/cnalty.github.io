@@ -25,10 +25,20 @@ This paper compares two policy gradient methods for multitask learning (MTL) on 
 [Multi-Task RL with Policy Gradients](HonorsThesis.pdf)
 
 # Table of Projects
+* [Multi-Task DDQN on Atari](#multi-task-ddqn-on-atari)
+* [NCAA Basketball Analysis](#ncaa-basketball-analysis)
 * [Gait Estimation](#gait-estimation)
 * [Character Recognition](#character-recognition)
 * [Genetic Algorithms for Training Neural Nets](#genetic-algorithms-for-training-neural-nets)
-* [Multi-Task DDQN on Atari](#multi-task-ddqn-on-atari)
+
+# Multi-Task DDQN on Atari - with Jill Granados, Michael Stephanus, Makai Freeman
+This work explred the effect of multi-task in Reinforcement Learning using the Double Deep Q-Network (DDQN) Hasselt et al developed a DDQN based on the Deep Q-Learning Network by Mnih et al. to mitigate the overestimation of values of actions in an attempt to have the network find a more general solution. We used DDQN to train a model to play Atari 2600 games either as a single task or part of a multi task process to determine how much the multi-task model will outperform the single-task and when the performance then decreases. Our findings suggest that there is little to no performance increase when training multiple tasks versus a single task with the difference becoming greater as more tasks are added.
+
+[Analysis of Multi-Tasking Reinforcement Learning](MTLDDQN.pdf)
+
+# NCAA Basketball Analysis
+
+[NCAA Basketball Anaylsis](basketball.html)
 
 # Gait Estimation
 This project involved estimating how people walk, known as gait. A pose estimation network was used to extract keypoints on peoples bodies. Using these each persons arm and leg movements were stabalized based on their torso position. The stabalized arm and leg movements were then fitted to a sin wave using Basin-hopping. This method also produces a torso stabilized video of each person walking.
@@ -43,8 +53,4 @@ This repository has methods for for using genetic algorithms to train neural net
 
 [RTGameAI](https://github.com/cnalty/RTGameAI)
 
-# Multi-Task DDQN on Atari - with Jill Granados, Michael Stephanus, Makai Freeman
-This work explred the effect of multi-task in Reinforcement Learning using the Double Deep Q-Network (DDQN) Hasselt et al developed a DDQN based on the Deep Q-Learning Network by Mnih et al. to mitigate the overestimation of values of actions in an attempt to have the network find a more general solution. We used DDQN to train a model to play Atari 2600 games either as a single task or part of a multi task process to determine how much the multi-task model will outperform the single-task and when the performance then decreases. Our findings suggest that there is little to no performance increase when training multiple tasks versus a single task with the difference becoming greater as more tasks are added.
-
-[Analysis of Multi-Tasking Reinforcement Learning](MTLDDQN.pdf)
 
