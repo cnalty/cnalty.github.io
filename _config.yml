@@ -1,4 +1,6 @@
 theme: jekyll-theme-cayman
 title: Christopher Nalty
 name: Christopher Nalty
+titles_from_headings:
+  enabled:     false
 description: Machine Learning Engineer at Mukh Technologies
