@@ -5,7 +5,7 @@ I am a Machine Learning Engineer for [Mukh Technologies](https://ww.mukh.com). I
 
 I graduated from the University of Marlyand in August of 2021 with a Bachelor's in Computer Science with honors and a minor Mathematics. My honors work was focused on Reinforcement Learning, a topic I am still very passionate about outside of my day to day work in Computer Vision.
 
-My CV can be found [here](cnalty.github.io/CV-cnalty.pdf)
+My CV can be found [here](CV-cnalty.pdf)
 
 # Work History
 ## [Mukh Technologies](https://www.mukh.com/) - Machine Learning Engineer
