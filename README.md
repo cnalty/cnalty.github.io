@@ -3,21 +3,22 @@
 I am a Machine Learning Engineer for [Mukh Technologies](https://ww.mukh.com). I began working here in 2019 as a Software Engineering Intern, and became a full time Machine Learning Engineer in September of 2021. I've worked on many parts of the machine learning pipeline during my time at Mukh, from data preperation and cleaning, to training scripts, to coding APIs.
 
 
-I did my undergraduate work at the University of Maryland. I graduated in August of 2021 with a Bachelor's in Computer Science with honors and a minor Mathematics. My honors work was focused on Reinforcement Learning, a topic I am still very passionate about outside of my day to day work in Computer Vision.
+I graduated from the University of Marlyand in August of 2021 with a Bachelor's in Computer Science with honors and a minor Mathematics. My honors work was focused on Reinforcement Learning, a topic I am still very passionate about outside of my day to day work in Computer Vision.
 
-My resume can be found [here](cnalty.github.io/resume.pdf)
+My CV can be found [here](cnalty.github.io/CV-cnalty.pdf)
 
 # Work History
 ## [Mukh Technologies](https://www.mukh.com/) - Machine Learning Engineer
 September 2021 - Present
+ * Research on thermal to visual face verification using Generative Adversarial Networks
+ * Facial recognition API maintenance and development in C++
+ * Creation of an automated test suite for facial recognition pipeline
 
 ## [Mukh Technologies](https://www.mukh.com/) - Software Engineering Intern
 May 2019 - August 2021
   * Data and algorithm visualization for facial recognition software
   * Containerization of neural network pipeline in Docker
   * PyTorch training and dataset scripts
-
-
 
 ## [Orbit Logic](https://www.orbitlogic.com/) - Systems Engineering Intern
 November 2018 - May 2019
