@@ -1,6 +1,6 @@
 # About Me
 
-I am a Machine Learning Engineer for [Mukh Technologies](https://ww.mukh.com). I began working here in 2019 as a Software Engineering Intern, and became a full time Machine Learning Engineer in September of 2021. I've worked on many parts of the machine learning pipeline during my time at Mukh, from data preperation and cleaning, to training scripts, to coding APIs.
+I am a Ph.D. student at Oregon State University focusing on Reinforcement Learning and Robotics.
 
 
 I graduated from the University of Marlyand in August of 2021 with a Bachelor's in Computer Science with honors and a minor Mathematics. My honors work was focused on Reinforcement Learning, a topic I am still very passionate about outside of my day to day work in Computer Vision.
@@ -9,7 +9,7 @@ My CV can be found [here](CV-cnalty.pdf)
 
 # Work History
 ## [Mukh Technologies](https://www.mukh.com/) - Machine Learning Engineer
-September 2021 - Present
+September 2021 - July 2022
  * Research on thermal to visual face verification using Generative Adversarial Networks
  * Facial recognition API maintenance and development in C++
  * Creation of an automated test suite for facial recognition pipeline
