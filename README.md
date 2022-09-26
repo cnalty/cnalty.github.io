@@ -1,9 +1,11 @@
 # About Me
 
-I am a Ph.D. student at Oregon State University focusing on Reinforcement Learning and Robotics.
+I am a Computer Science Ph.D. Student at Oregon State University advised by [Dr. Alan Fern](https://eecs.oregonstate.edu/people/fern-alan). I am member of at the [Dynamic Robotics  Labratory](https://mime.oregonstate.edu/research/drl/index.html) where I study bipedal robot control and motion planning through deep reinforcement learning. My current research there focuses on transfering behaviors observed in video data, such as vaulting over a wall or performing a flip, to robotic actions on Agility Robotics' Cassie Robot. I am also interested in Artificial Intelligence Safety and Ethics research.
+
+Before coming to Oregon State University, I worked at Mukh Technologies as a Machine Learning Engineer under [Dr. Rama Chellappa](https://engineering.jhu.edu/faculty/rama-chellappa/) and [Dr. Carlos Castillo](https://scholar.google.com/citations?user=jxf3Qv0AAAAJ&hl=en). Here I worked on computer vision tasks related to faces including detection, attribute extraction, and recognition for both production and research purposes. My research here was focused on using Generative Adversarial Networks for Thermal-to-Visible Face verification.
 
 
-I graduated from the University of Marlyand in August of 2021 with a Bachelor's in Computer Science with honors and a minor Mathematics. My honors work was focused on Reinforcement Learning, a topic I am still very passionate about outside of my day to day work in Computer Vision.
+I graduated from the University of Marlyand in August of 2021 with a Bachelor's in Computer Science with honors and a minor Mathematics. My honors work was focused on Reinforcement Learning under the supervision of [Dr. James Reggia](https://www.cs.umd.edu/~reggia/).
 
 My CV can be found [here](CV-cnalty.pdf)
 
