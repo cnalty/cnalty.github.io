@@ -1,65 +1,41 @@
-# About Me
 
-I am an Artificial Intelligence Ph.D. Student at Oregon State University advised by [Dr. Alan Fern](https://eecs.oregonstate.edu/people/fern-alan). I am member of at the [Dynamic Robotics and AI Labratory](https://mime.engineering.oregonstate.edu/research/drl/index.html) where I study bipedal robot control and motion planning through deep reinforcement learning. My current research there focuses on 6 degree of freedom object detection for object pickup. I am also interested in Artificial Intelligence Safety and Ethics research.
+# Academic Pages
 
-Before coming to Oregon State University, I worked at Mukh Technologies as a Machine Learning Engineer under [Dr. Rama Chellappa](https://engineering.jhu.edu/faculty/rama-chellappa/) and [Dr. Carlos Castillo](https://scholar.google.com/citations?user=jxf3Qv0AAAAJ&hl=en). Here I worked on computer vision tasks related to faces including detection, attribute extraction, and recognition for both production and research purposes. My research here was focused on using Generative Adversarial Networks for Thermal-to-Visible Face verification.
+![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
 
-
-I graduated from the University of Marlyand in August of 2021 with a Bachelor's in Computer Science with honors and a minor Mathematics. My honors work was focused on Reinforcement Learning under the supervision of [Dr. James Reggia](https://www.cs.umd.edu/~reggia/).
-
-My CV can be found [here](CV-cnalty.pdf)
-
-# Work History
-## [Mukh Technologies](https://www.mukh.com/) - Machine Learning Engineer
-September 2021 - July 2022
- * Research on thermal to visual face verification using Generative Adversarial Networks
- * Facial recognition API maintenance and development in C++
- * Creation of an automated test suite for facial recognition pipeline
-
-## [Mukh Technologies](https://www.mukh.com/) - Software Engineering Intern
-May 2019 - August 2021
-  * Data and algorithm visualization for facial recognition software
-  * Containerization of neural network pipeline in Docker
-  * PyTorch training and dataset scripts
-
-## [Orbit Logic](https://www.orbitlogic.com/) - Systems Engineering Intern
-November 2018 - May 2019
-  * Regression Testing
-  * Automation of Test setup and database restoration
-
-## Honors Thesis - A comparison of Policy Gradient Methods for MultiTask Learning
-This paper compares two policy gradient methods for multitask learning (MTL) on the Atari visual environments. These environments are complex and take millions of time steps to learn. This paper investigates Advantage Actor-Critic (A2C) and Proximal Policy Optimization’s (PPO) performance on one, two and four environments from the Arcade Learning Environment. The results show that agents trained with both PPO and A2C have improved performance when trained on multiple tasks when compared to a single task. PPO showed the most consistent improvement and scored the best overall. However, A2C’s improves the most on average compared to its baseline. This shows that the trust-region approximation of PPO may not be as beneficial in MTL as in a single task.
-
-[Multi-Task RL with Policy Gradients](HonorsThesis.pdf)
-
-# Table of Projects
-* [Multi-Task DDQN on Atari](#multi-task-ddqn-on-atari)
-* [NCAA Basketball Analysis](#ncaa-basketball-analysis)
-* [Gait Estimation](#gait-estimation)
-* [Character Recognition](#character-recognition)
-* [Genetic Algorithms for Training Neural Nets](#genetic-algorithms-for-training-neural-nets)
-
-# Multi-Task DDQN on Atari - with Jill Granados, Michael Stephanus, Makai Freeman
-This work explred the effect of multi-task in Reinforcement Learning using the Double Deep Q-Network (DDQN) Hasselt et al developed a DDQN based on the Deep Q-Learning Network by Mnih et al. to mitigate the overestimation of values of actions in an attempt to have the network find a more general solution. We used DDQN to train a model to play Atari 2600 games either as a single task or part of a multi task process to determine how much the multi-task model will outperform the single-task and when the performance then decreases. Our findings suggest that there is little to no performance increase when training multiple tasks versus a single task with the difference becoming greater as more tasks are added.
-
-[Analysis of Multi-Tasking Reinforcement Learning](MTLDDQN.pdf)
-
-# NCAA Basketball Analysis
-A Data Science project analysis NCAA basketball teams and predicting game results.
-
-[NCAA Basketball Anaylsis](basketball.html)
-
-# Gait Estimation
-This project involved estimating how people walk, known as gait. A pose estimation network was used to extract keypoints on peoples bodies. Using these each persons arm and leg movements were stabalized based on their torso position. The stabalized arm and leg movements were then fitted to a sin wave using Basin-hopping. This method also produces a torso stabilized video of each person walking.
-
-# Character Recognition
-This repository contains a simple convolutional neural network for recognition of handwritten digits. Trained and tested using Kaggle distributions of the MNIST dataset and the Kannada MNIST dataset. Accuracy results can be found in the repositroy.
-
-[CharacterRecognition](https://github.com/cnalty/CharacterRecognition)
-
-# Genetic Algorithms for Training Neural Nets
-This repository has methods for for using genetic algorithms to train neural networks. There are a few basic mobile and arcade style games used to showcase and test. The methods have only been tested for training on fully connected layers, but have been run on convolutional layers. May work with other layers as well.
-
-[RTGameAI](https://github.com/cnalty/RTGameAI)
+Academic Pages is a Github Pages template for academic websites.
 
 
+# Getting Started
+
+1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
+1. Click the "Use this template" button in the top right.
+1. On the "New repository" page, enter your repository name as "[your GitHub username].github.io", which will also be your website's URL.
+1. Set site-wide configuration and add your content.
+1. Upload any files (like PDFs, .zip files, etc.) to the `files/` directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
+1. Check status by going to the repository settings, in the "GitHub pages" section
+1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
+
+See more info at https://academicpages.github.io/
+
+## Running Locally
+
+When you are initially working your website, it is very useful to be able to preview the changes locally before pushing them to GitHub. To work locally you will need to:
+
+1. Clone the repository and made updates as detailed above.
+1. Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
+1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
+1. Run `jekyll serve -l -H localhost` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
+
+
+# Maintenance 
+
+Bug reports and feature requests to the template  should be [submitted via GitHub](https://github.com/academicpages/academicpages.github.io/issues/new/choose). For questions concerning how to style the template, please feel free to start a [new discussion on GitHub](https://github.com/academicpages/academicpages.github.io/discussions).
+
+This repository was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License (see LICENSE.md). It is currently being maintained by [Robert Zupko](https://github.com/rjzupkoii) and additional maintainers would be welcomed.
+
+## Bugfixes and enhancements
+
+If you have bugfixes and enhancements that you would like to submit as a pull request, you will need to [fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) this repository as opposed to using it as a template. This will also allow you to [synchronize your copy](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork) of template to your fork as well.
+
+Unfortunately, one logistical issue with a template theme like Academic Pages that makes it a little tricky to get bug fixes and updates to the core theme. If you use this template and customize it, you will probably get merge conflicts if you attempt to synchronize. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch.
