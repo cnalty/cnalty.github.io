@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Christopher B. Nalty"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Christopher B. Nalty"
 description              : &description "personal description"
 url                      : https://cnalty.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -21,7 +21,7 @@ repository               : "cnalty/cnalty.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Christopher Nalty"
   pronouns         : "He/Him"
   bio              : "Reinforcement Learning and Computer Vision researcher. LLM enthusiast"
