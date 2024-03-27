@@ -25,6 +25,7 @@ LLMs and Game AI
 Outside my formal research, I am extremely interested in Large Language Models as well as using games as benchmarks for 
 AI. Previously I've coded [PPO](https://openai.com/research/openai-baselines-ppo) and [DDQN](https://ojs.aaai.org/index.php/AAAI/article/view/10295)
 from scratch to play multiple games on the [Arcade Learning Environment](https://www.jair.org/index.php/jair/article/view/10819). 
-Currently, I'm working to fine-tune LLMs to play [Pokemon Showdown](https://pokemonshowdown.com/) to compare with an 
-In-Context Learning method presented in [PokeLLMon](https://poke-llm-on.github.io/). This work will be made public 
-shortly after OSUs 2024 winter term.
+I have also fine-tuned an LLM to play [Pokemon Showdown](https://pokemonshowdown.com/) to compare with an 
+In-Context Learning method presented in [PokeLLMon](https://poke-llm-on.github.io/). Resources for this project were limited, so we used a 7b parameter model
+to teach a 1b parameter model to play the game. This allowed the 1b parameter model to outperform the teacher model by 4% in win rate.
+More details can be found [here](files/PokeLLMonTrainer.pdf).
