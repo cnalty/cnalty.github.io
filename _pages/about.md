@@ -9,7 +9,7 @@ redirect_from:
 
 Robotic Perception
 =====
-I'm a first year PhD student working on vision based robotic control at Oregon State University. I am part of the
+I'm a PhD student working on vision based robotic control at Oregon State University. I am part of the
 [Dynamic Robotics and Artificial Intelligence Laboratory](https://mime.engineering.oregonstate.edu/research/drl/index.html)
 where I use deep learning based methods to give bipedal robots, such as [Digit](https://agilityrobotics.com/robots), 
 the capability to perceive and interact with the world. My research goals involve extending visual 
